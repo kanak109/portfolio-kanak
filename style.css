@@ -1,0 +1,94 @@
+body{
+        font-family: 'Varta', sans-serif;
+        margin: 0px;
+}
+
+h1{
+    font-size: 40px;
+}
+#highlight{
+    color: orange;
+}
+.hire-button{
+    
+    background-image: linear-gradient(blue, rgb(97, 97, 236));
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 600;
+
+}
+
+.section1{
+    float: left;
+    width: 40%;
+    margin-left: 4%;
+    padding-left: 3%;
+}
+.section1 img{
+    width: 100%;
+}
+
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+
+.middle-banner{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+}
+
+.bottom-section{
+    float: left;
+    width: 25%;
+    margin-left: 4%;
+    padding-left: 3%;
+
+}
+.bottom-section img{
+    width: 100%;
+}
+
+.bottom-banner{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+
+.middle-sentence{
+    text-align: center;
+
+}
+.last-banner{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    
+}
+.final-block{
+    
+    padding: 20px;
+    
+    text-align: center;
+    
+    font-style: italic;
+}
+.contact{
+    width: 50%;
+    font-weight: 500;
+    background-color: #ec4c7a;
+    border-radius: 10px;
+    padding: 20px 60px;
+    margin: auto ;
+}
+
+footer p{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+
+}
